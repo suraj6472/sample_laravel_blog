@@ -4,6 +4,12 @@
 
 - Clone the repo first.
 
+- Navigate to the cloned repo directory.
+
+```cmd
+cd sample_laravel_blog
+```
+
 - Run the following command in Terminal. it will create .env file
 
 ```cmd
@@ -27,7 +33,7 @@ DB_PASSWORD=
 composer install
 ```
 
-- Now run below command to run the project
+- Now run below command to start the project
 
 ```php
 php artisan serve
